@@ -132,4 +132,4 @@ When faced with urgent orders, the analysis provides a clear framework for sched
 
 ## 7. Conclusion
 
-The integration of PERT and CPM provides Usha Martin with a dynamic and predictive model to optimize its LRPC production. By identifying the critical path [cite: 280][cite_start], quantifying schedule risk [cite: 281][cite_start], and strategically managing float [cite: 282][cite_start], the company can significantly enhance production predictability, improve resource efficiency, and solidify its competitive advantage as a reliable, "one-stop solution provider"[cite: 288].
+The integration of PERT and CPM provides Usha Martin with a dynamic and predictive model to optimize its LRPC production. By identifying the critical path, quantifying schedule risk , and strategically managing float , the company can significantly enhance production predictability, improve resource efficiency, and solidify its competitive advantage as a reliable, "one-stop solution provider".
