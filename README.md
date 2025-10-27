@@ -4,7 +4,7 @@
 
 ## 1. Executive Summary
 
-This report presents a comprehensive analysis of the Low Relaxation Prestressed Concrete (LRPC) strand production process at Usha Martin.It applies a synthesized Program Evaluation and Review Technique (PERT) and Critical Path Method (CPM) framework to model the manufacturing workflow, identify operational bottlenecks, quantify schedule risks, and provide actionable recommendations for process optimization.
+This report presents a comprehensive analysis of the Low Relaxation Prestressed Concrete (LRPC) strand production process at Usha Martin.It applies a synthesized Program Evaluation and Review Technique (PERT) and Critical Path Method (CPM) framework to model the manufacturing workflow, quantify schedule risks, and provide actionable recommendations for process optimization.
 
 The analysis identifies the critical path of production, calculates a total expected production duration of **71.34 hours**, and quantifies the schedule risk, providing a path for Usha Martin to enhance production predictability and maintain its competitive advantage.
 <p align="center">
